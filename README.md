@@ -61,7 +61,7 @@ It simulates a real-world business problem where an e-commerce company wants to:
 |-----------------|-----------------------------------------------|
 | **Champions**   | Recent, frequent, high-spending customers     |
 | **Loyal**       | Purchase often, strong brand loyalty          |
-| **Big Spenders**| Spend a lot, even if not very frequent        |
+| **Big Spenders**| Spend a lot, even if not very frequently      |
 | **At Risk**     | Haven’t purchased in a long time              |
 | **Recent**      | New customers making first purchases          |
 | **Others**      | Low-value or inactive customers               |
@@ -69,11 +69,11 @@ It simulates a real-world business problem where an e-commerce company wants to:
 ---
 
 ## 📈 Key Insights (From Dataset)
-- **Top 5 Products:** To be analyzed from dataset  
-- **Peak Sales Month:** To be identified  
-- **Country with Most Revenue:** To be identified  
-- **Champions Segment:** X% of customers, contributing Y% of revenue  
-- **At Risk Customers:** Identified for re-engagement campaigns  
+- **Top 3 Products:** White T-light holder, Cakestand 3Tire, Jambo Bag Red Retrospot 
+- **Peak Sales Month:** November 2011 
+- **Country with Most Revenue:** United Kingdom  
+- **Champions Segment:** Top 22% of customers contribute 65.17% of revenue  
+- **At Risk Customers:** Around 30% of customers are at risk.  
 
 ---
 
